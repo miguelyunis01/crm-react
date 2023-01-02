@@ -1,0 +1,42 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Freedman",
+      "empresa": "Netflix",
+      "email": "juan@netflix.com",
+      "telefono": "102013313",
+      "notas": "actualizar header web app",
+      "id": 1
+    },
+    {
+      "nombre": "Karen Oslo",
+      "empresa": "Microsoft",
+      "email": "karen@juan.com",
+      "telefono": "301456878",
+      "notas": "Nueva nota",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel Jordan",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Tesla"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro Jackman",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Space X"
+    },
+    {
+      "nombre": "Ana Schotborgh",
+      "empresa": "Zoe Finantial",
+      "email": "miguelyunis001@gmail.com",
+      "telefono": "3013460796",
+      "notas": "Apliacion del trabajo",
+      "id": 7
+    }
+  ]
+}
